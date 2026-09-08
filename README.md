@@ -5,7 +5,9 @@ Análisis completo de ciencia de datos sobre el **Global IT Job Listings Dataset
 ciclo completo: preparación de datos, análisis estadístico y modelado + comunicación.
 
 **Programa:** Ingeniería de Sistemas
+
 **Integrantes:** Alejandra Leguizamon · Francy Atehortua · Nicolás Becerra
+
 **Fecha:** agosto–septiembre de 2026
 
 ---
