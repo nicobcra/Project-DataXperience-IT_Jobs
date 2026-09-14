@@ -80,8 +80,7 @@ nueva: `Nivel Titulo` (senior/medio/junior a partir del texto del título).
 │   ├── IT_jobs_modulo2.csv    # salida del Módulo 2
 │   └── IT_jobs_modulo3.csv    # salida del Módulo 3
 ├── docs/
-├── presentacion/                        # video / diapositivas de la entrega
-└── figuras/                             # gráficos exportados (opcional)
+└── presentacion/                        # video / diapositivas de la entrega
 ```
 
 ---
@@ -107,7 +106,7 @@ jupyter notebook notebooks/DataXperience_IT_Jobs_Analysis.ipynb
 
 ## Entregable
 
-Video de 2 a 5 minutos que explica las tres etapas del proyecto, con interpretación
+Video de 5 minutos que explica las tres etapas del proyecto, con interpretación
 personal y aplicación profesional.
 
 ---
