@@ -88,7 +88,7 @@ nueva: `Nivel Titulo` (senior/medio/junior a partir del texto del título).
 ## Cómo reproducir el análisis
 
 ### Opción A — Google Colab (recomendada)
-1. Sube `notebooks/DataXperience_IT_Jobs_Analysis.ipynb` a [Google Colab](https://colab.research.google.com/).
+1. Sube `notebooks/DataXperience_IT_Jobs_Analysis.ipynb` a [Google Colab](https://colab.research.google.com/drive/1ZXQb6Y9iBowDzOIlWojh_4fhMbjNvy-h?usp=sharing).
 2. Sube `data/IT_jobs.csv` al panel de archivos.
 3. Ejecuta *Entorno de ejecución → Ejecutar todas*. El notebook genera por sí mismo
    `IT_jobs_clean.csv`, `IT_jobs_modulo2.csv` e `IT_jobs_modulo3.csv`.
