@@ -79,8 +79,7 @@ nueva: `Nivel Titulo` (senior/medio/junior a partir del texto del título).
 │   ├── IT_jobs_clean.csv      # salida del Módulo 1
 │   ├── IT_jobs_modulo2.csv    # salida del Módulo 2
 │   └── IT_jobs_modulo3.csv    # salida del Módulo 3
-├── docs/
-└── presentacion/                        # video / diapositivas de la entrega
+└── presentacion y video/                # presentación (PDF) y video de la entrega
 ```
 
 ---
